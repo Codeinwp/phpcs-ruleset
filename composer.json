@@ -2,6 +2,7 @@
   "name": "codeinwp/phpcs-ruleset",
   "description": "PHPCS coding standards for Themeisle products.",
   "type": "phpcodesniffer-standard",
+  "license": "GPL-3.0-or-later",
   "bin": [
     "bin/phpcbf-fix-exit-0"
   ],
