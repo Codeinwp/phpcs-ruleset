@@ -1,0 +1,17 @@
+{
+  "name": "codeinwp/phpcs-ruleset",
+  "description": "PHPCS coding standards for Themeisle products.",
+  "type": "phpcodesniffer-standard",
+  "bin": [
+    "bin/phpcbf-fix-exit-0"
+  ],
+  "require": {
+    "wptrt/wpthemereview": "*",
+    "automattic/vipwpcs": "^2.0",
+    "dealerdirect/phpcodesniffer-composer-installer": "^0.7.0",
+    "sirbrillig/phpcs-variable-analysis": "^2.10"
+  },
+  "scripts": {
+    "post-install-cmd": "\"vendor/bin/phpcs\" --config-set default_standard Themeisle"
+  }
+}

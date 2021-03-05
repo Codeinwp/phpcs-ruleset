@@ -1,2 +1,3 @@
-# phpcs-ruleset
+# Themeisle ruleset 
+
 Global phpcs ruleset 
