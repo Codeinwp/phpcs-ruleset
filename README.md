@@ -3,7 +3,7 @@
 Global phpcs ruleset 
 
 
-###Usage
+### Usage
 
 Install it using 
 `composer require codeinwp/phpcs-ruleset --dev`
