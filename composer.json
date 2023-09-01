@@ -9,7 +9,7 @@
   "require": {
     "wptrt/wpthemereview": "*",
     "automattic/vipwpcs": "^2.0",
-    "dealerdirect/phpcodesniffer-composer-installer": "^0.7.0",
+    "dealerdirect/phpcodesniffer-composer-installer": "^1.0.0",
     "sirbrillig/phpcs-variable-analysis": "^2.10"
   },
   "scripts": {
